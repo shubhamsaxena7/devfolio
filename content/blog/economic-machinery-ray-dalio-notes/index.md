@@ -1,5 +1,5 @@
 ---
-title: Working of the economic machinery
+title: Working of the economic machinery [Video Notes]
 date: 2020-03-28 00:00:00
 excerpt: Notes from Ray Dalio - How The Economic Machine Works (https://www.youtube.com/watch?v=PHe0bXAIuk0)
 type: post

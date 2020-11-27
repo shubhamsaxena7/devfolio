@@ -1,5 +1,5 @@
 ---
-title: A philosophy of software design
+title: A philosophy of software design [Book Notes]
 date: 2020-03-22 00:00:00
 excerpt: Chapter notes
 type: post
