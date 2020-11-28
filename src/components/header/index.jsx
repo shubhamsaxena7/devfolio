@@ -73,6 +73,16 @@ const Header = ({ metadata = {}, noBlog = false }) => {
               </a>
             </li>
           )}
+          {
+            <li className={classes.item}>
+              <a className={classes.link}
+                 href="https://drive.google.com/file/d/1hC1D2DhXBX5S-yn7u5-zuwr8rl5HLFWV/view?usp=sharing"
+                 target="_blank"
+              >
+                Resume
+              </a>
+            </li>
+          }
         </ul>
       </div>
     </div>
