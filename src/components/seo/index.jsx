@@ -31,7 +31,7 @@ const SEO = ({ description, lang, meta, title }) => {
       meta={[
         {
           name: `description`,
-          content: metaDescription,
+          content: 'Welcome to my little home on Internet',
         },
         {
           property: `og:title`,

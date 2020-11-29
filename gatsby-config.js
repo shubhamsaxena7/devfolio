@@ -7,7 +7,7 @@ module.exports = {
     // Main Site Title
     title: `Shubham Saxena`,
     // Description that goes under your name in main bio
-    description: ` `,
+    description: `I explore, I learn, and I share`,
     // Optional: Twitter account handle
     author: `@_s7saxena`,
     // Optional: Github account URL
